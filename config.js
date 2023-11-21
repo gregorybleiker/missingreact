@@ -19,6 +19,7 @@ SystemJS.config({
     'systemjs-babel-build': 'systemjs-plugin-babel@latest/systemjs-babel-browser.js',
     'react': 'react@18.2.0/umd/react.development.js',
     'react-dom': 'react-dom@18.2.0/umd/react-dom.development.js',
+    'react-redux': 'react-redux@8.1.3/dist/react-redux.min.js',
     'rxjs': 'rxjs@7.8.1/dist/bundles/rxjs.umd.min.js',
     'redux': 'redux@4.2.1/dist/redux.min.js'
   },
